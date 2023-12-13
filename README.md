@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Rugved-rs8
-- 👀 I’m interested in Android Development.
-- 🌱 I’m currently learning MAD Skills.
-- 💞️ I’m looking to collaborate on Android Projects.
 - 📫 rugvedshahane@gmail.com
 
 <!---
